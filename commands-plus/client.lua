@@ -7,6 +7,8 @@ chatSuggestionRadio = true -- Change to "False" if you want the chat suggestion 
 chatSuggestionTwitter = true -- Change to "False" if you want the chat suggestion for /tweet off
 chatSuggestionAd = true -- Change to "False" if you want the chat suggestion for /ad off
 
+-- MAKE SURE TO RESTART SERVER IF YOU TURN SOMETHING FROM FALSE TO TRUE --
+
 -------------------------------------------------------
 
 
